@@ -8,45 +8,40 @@ Experiência acadêmica e prática em **desenvolvimento web, backend, APIs e ban
 ## Formação
 
 **Curso Técnico em Desenvolvimento de Sistemas**  
-📅 Agosto/2024 – Julho/2026 (2 anos - 3200 horas)
+📅 Agosto/2024 – Julho/2026  
+⏱️ Carga horária total: 3.200 horas
 
-### Disciplinas Concluídas
-- Análise de Sistemas
-- Arquitetura de Redes Locais
-- Desenvolvimento Socioprofissional
-- Fundamentos da Comunicação, Informação e Análise de Dados
-- Fundamentos da Eletroeletrônica Aplicada
-- Fundamentos da Matemática
-- Fundamentos da Segurança da Informação
-- Implementação de Banco de Dados
-- Informática Aplicada
-- Inglês Técnico
-- Introdução à Indústria 4.0
-- Lógica de Programação
-- Metodologias Ágeis e Versionamento
-- Programação IoT
-- Realidade Aumentada/Virtual
-- Sistemas Operacionais
-- Sustentabilidade, Saúde e Segurança do Trabalho
-- Técnicas de Programação
-- Web Design UI/UX
+### Principais Competências Desenvolvidas
 
-### Disciplinas em Andamento
-- Arquitetura de Sistemas
-- Automação Industrial
-- Cloud Computing
-- Data Science
-- Documentação de Sistemas
-- Programação Front-End
-- Programação de APIs
-- Serviços de Redes
+**Desenvolvimento de Software**
+- Lógica de programação e técnicas de desenvolvimento  
+- Programação Front-End  
+- Programação de APIs  
+- Programação IoT  
+- Programação de aplicativos mobile  
 
-### Próximas Disciplinas
-- Fundamentos de Sistemas de Manufatura - WMS
-- Implantação de Sistemas
-- Processos de Desenvolvimento WEG
-- Processos e Produtos WEG
-- Programação de Aplicativos Mobile
+**Backend, APIs e Arquitetura**
+- Análise de sistemas  
+- Arquitetura de sistemas  
+- Desenvolvimento de APIs REST  
+- Organização em camadas e boas práticas  
+
+**Banco de Dados e Dados**
+- Modelagem de banco de dados  
+- Implementação e consultas SQL  
+- Fundamentos de Data Science  
+
+**Infraestrutura, Redes e Sistemas**
+- Sistemas operacionais  
+- Arquitetura e serviços de redes  
+- Cloud Computing  
+- Fundamentos de segurança da informação  
+
+**Processos, Metodologias e Documentação**
+- Metodologias ágeis (Scrum)  
+- Versionamento de código  
+- Documentação de sistemas  
+- Sustentabilidade, segurança e contexto industrial (Indústria 4.0)
 
 ---
 
