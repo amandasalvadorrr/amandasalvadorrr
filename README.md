@@ -83,11 +83,4 @@ Experiência acadêmica e prática em **desenvolvimento web, backend, APIs e ban
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
 ![Node--RED](https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered)
 
-
-### Metodologias e Práticas
-- Scrum  
-- Versionamento de código  
-- Organização de projetos  
-- Documentação técnica  
-
 ---
