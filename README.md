@@ -45,6 +45,7 @@ Experiência acadêmica e prática em **desenvolvimento web, backend, APIs e ban
 - Fundamentos de Sistemas de Manufatura - WMS
 - Implantação de Sistemas
 - Processos de Desenvolvimento WEG
+- Processos e Produtos WEG
 - Programação de Aplicativos Mobile
 
 ---
