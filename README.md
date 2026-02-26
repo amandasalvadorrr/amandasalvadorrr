@@ -11,38 +11,6 @@ Experiência acadêmica e prática em **desenvolvimento web, backend, APIs e ban
 📅 Agosto/2024 – Julho/2026  
 ⏱️ Carga horária total: 3.200 horas
 
-### Principais Competências Desenvolvidas
-
-**Desenvolvimento de Software**
-- Lógica de programação e técnicas de desenvolvimento  
-- Programação Front-End  
-- Programação de APIs  
-- Programação IoT  
-- Programação de aplicativos mobile  
-
-**Backend, APIs e Arquitetura**
-- Análise de sistemas  
-- Arquitetura de sistemas  
-- Desenvolvimento de APIs REST  
-- Organização em camadas e boas práticas  
-
-**Banco de Dados e Dados**
-- Modelagem de banco de dados  
-- Implementação e consultas SQL  
-- Fundamentos de Data Science  
-
-**Infraestrutura, Redes e Sistemas**
-- Sistemas operacionais  
-- Arquitetura e serviços de redes  
-- Cloud Computing  
-- Fundamentos de segurança da informação  
-
-**Processos, Metodologias e Documentação**
-- Metodologias ágeis (Scrum)  
-- Versionamento de código  
-- Documentação de sistemas  
-- Sustentabilidade, segurança e contexto industrial (Indústria 4.0)
-
 ---
 
 ## Conhecimentos Técnicos
